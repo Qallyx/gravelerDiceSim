@@ -1,2 +1,1 @@
-gravelerLockPick is just the compiled version of ReallyUnlikely.c
-executableOLP is the comiled version of optimizedLockPick.c, which again is just an optimized ReallyUnlikely.c
+First one has the files that took 20 minutes. Fast one has the 4 second stuff.
